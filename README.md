@@ -1,4 +1,12 @@
-## Hi there 👋
+# Thibagar Thiyanamoorthy
+
+Senior Front-End Developer with 8+ years of commercial experience building accessible, high-performing websites for the Energy Institute, a leading global membership body in the energy sector.
+
+I specialise in HTML5, CSS3/SCSS and JavaScript, and have spent most of my career developing within Squiz Matrix CMS, a platform that enables building reusable, component-based templates, maintaining scalable front-end architecture, and optimising performance, SEO and accessibility for content-driven platforms.
+
+I use Google Analytics, Tag Manager and Looker Studio to understand user behaviour, and collaborate closely with internal stakeholders and external agencies to translate business requirements into accessible, on-brand digital experiences.
+
+I'm currently expanding into React and TypeScript, building on strong foundations in component-based thinking, state-driven UI patterns and maintainable architecture developed through years of work with Squiz Matrix CMS. I'm looking for my next challenge as a Senior Front-End Developer or Front-End Engineer where I can bring that experience into a modern JavaScript framework stack.
 
 <!--
 **darkshadexx95/darkshadexx95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
